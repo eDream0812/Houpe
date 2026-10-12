@@ -1,0 +1,43 @@
+{
+  "app": {
+    // 签名配置含真实口令与本机路径，已从仓库移除。
+    // 用 DevEco Studio 打开工程并登录后会自动重新生成（File > Project Structure > Signing Configs）。
+    "products": [
+      {
+        "name": "default",
+        "compileSdkVersion": "26.0.0",
+        "targetSdkVersion": "26.0.0",
+        "compatibleSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Houpe 主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Houpe 主页面"
+    },
+    {
+      "name": "reason_location",
+      "value": "读取你的坐标信息，展示应用能获取到的位置数据"
+    },
+    {
+      "name": "reason_camera",
+      "value": "读取摄像头信息，展示应用能获取到的相机硬件数据"
+    },
+    {
+      "name": "reason_microphone",
+      "value": "读取音频输入设备，展示应用能获取到的麦克风数据"
+    },
+    {
+      "name": "reason_media",
+      "value": "统计媒体库数量，展示应用能获取到的媒体数据"
+    },
+    {
+      "name": "reason_bundle",
+      "value": "查询已安装应用信息，展示应用能探测到的其他应用"
+    },
+    {
+      "name": "reason_network",
+      "value": "读取网络接口信息，展示应用能获取到的网络状态数据"
+    },
+    {
+      "name": "reason_sensor",
+      "value": "读取传感器硬件参数，展示设备配备的传感器清单"
+    },
+    {
+      "name": "reason_motion",
+      "value": "读取运动与计步传感器参数，展示设备活动数据"
+    }
+  ]
+}

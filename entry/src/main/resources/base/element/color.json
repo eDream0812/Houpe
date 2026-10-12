@@ -1,0 +1,64 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F5F5F7"
+    },
+    {
+      "name": "primary",
+      "value": "#FF9500"
+    },
+    {
+      "name": "on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background",
+      "value": "#F5F5F7"
+    },
+    {
+      "name": "surface",
+      "value": "#CCFFFFFF"
+    },
+    {
+      "name": "card_bg",
+      "value": "#CCFFFFFF"
+    },
+    {
+      "name": "sheet_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#182431"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#666666"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#707070"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#999999"
+    },
+    {
+      "name": "divider",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "success",
+      "value": "#34C759"
+    },
+    {
+      "name": "danger",
+      "value": "#FF375F"
+    },
+    {
+      "name": "warning",
+      "value": "#FF9500"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Obfuscation rules for Houpe release builds.
+# Keep the default empty rule set: the app is fully offline and does not
+# need name-mangling protection beyond the compiler defaults.
+-enable-property-obfuscation
+-enable-toplevel-obfuscation
+-keep-global-name
+  *
+-keep-property-name
+  *
